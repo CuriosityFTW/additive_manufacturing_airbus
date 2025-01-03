@@ -24,13 +24,13 @@ model, partial/full activation, print bed/chamber temp., infill pattern, etc.
 * Received the “Drive Improvement and Innovation award” for the innovative and exemplary work performed in a short time frame
 
 <p align="center">
-  <img src="images/pic1.PNG">
+  <img src="images/pic1.png">
 </p>
 
 <p align="center">
-  <img src="images/pic2.PNG">
+  <img src="images/pic2.png">
 </p>
 
 <p align="center">
-  <img src="images/pic3.PNG">
+  <img src="images/pic3.png">
 </p>
